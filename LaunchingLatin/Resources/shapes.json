@@ -1,0 +1,32 @@
+[
+    {
+        "english": "triangle",
+        "latin": "triangulum",
+        "id": 0
+    },
+    {
+        "english": "square",
+        "latin": "quadrum",
+        "id": 1
+    },
+    {
+        "english": "hexagon",
+        "latin": "hexagonon",
+        "id": 2
+    },
+    {
+        "english": "circle",
+        "latin": "orbis",
+        "id": 3
+    },
+    {
+        "english": "rectangle",
+        "latin": "rectangulum",
+        "id": 4
+    },
+    {
+        "english": "star",
+        "latin": "stella",
+        "id": 5
+    }
+]

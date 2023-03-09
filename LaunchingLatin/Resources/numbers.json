@@ -1,0 +1,122 @@
+[
+    {
+        "number": "1",
+        "english": "one",
+        "latin": "unus",
+        "id": 0
+    },
+    {
+        "number": "2",
+        "english": "two",
+        "latin": "duo",
+        "id": 1
+    },
+    {
+        "number": "3",
+        "english": "three",
+        "latin": "tres",
+        "id": 2
+    },
+    {
+        "number": "4",
+        "english": "four",
+        "latin": "quattuor",
+        "id": 3
+    },
+    {
+        "number": "5",
+        "english": "five",
+        "latin": "quinque",
+        "id": 4
+    },
+    {
+        "number": "6",
+        "english": "six",
+        "latin": "sex",
+        "id": 5
+    },
+    {
+        "number": "7",
+        "english": "seven",
+        "latin": "septem",
+        "id": 6
+    },
+    {
+        "number": "8",
+        "english": "eight",
+        "latin": "octo",
+        "id": 7
+    },
+    {
+        "number": "9",
+        "english": "nine",
+        "latin": "novem",
+        "id": 8
+    },
+    {
+        "number": "10",
+        "english": "ten",
+        "latin": "decem",
+        "id": 9
+    },
+    {
+        "number": "11",
+        "english": "eleven",
+        "latin": "undecim",
+        "id": 10
+    },
+    {
+        "number": "12",
+        "english": "tweleve",
+        "latin": "duodecim",
+        "id": 11
+    },
+    {
+        "number": "13",
+        "english": "thirteen",
+        "latin": "tredecim",
+        "id": 12
+    },
+    {
+        "number": "14",
+        "english": "fourteen",
+        "latin": "quattuordecim",
+        "id": 13
+    },
+    {
+        "number": "15",
+        "english": "fifthteen",
+        "latin": "quindecim",
+        "id": 14
+    },
+    {
+        "number": "16",
+        "english": "sixteen",
+        "latin": "sedecim",
+        "id": 15
+    },
+    {
+        "number": "17",
+        "english": "seventeen",
+        "latin": "septendecim",
+        "id": 16
+    },
+    {
+        "number": "18",
+        "english": "eighteen",
+        "latin": "duodeviginti",
+        "id": 17
+    },
+    {
+        "number": "19",
+        "english": "nineteen",
+        "latin": "undeviginti",
+        "id": 18
+    },
+    {
+        "number": "20",
+        "english": "twenty",
+        "latin": "viginti",
+        "id": 19
+    }
+]

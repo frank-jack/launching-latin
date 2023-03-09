@@ -1,0 +1,52 @@
+[
+    {
+        "english": "black",
+        "latin": "ater",
+        "id": 0
+    },
+    {
+        "english": "white",
+        "latin": "albus",
+        "id": 1
+    },
+    {
+        "english": "red",
+        "latin": "ruber",
+        "id": 2
+    },
+    {
+        "english": "orange",
+        "latin": "aurantius",
+        "id": 3
+    },
+    {
+        "english": "gold",
+        "latin": "aureus",
+        "id": 3
+    },
+    {
+        "english": "yellow",
+        "latin": "flavus",
+        "id": 4
+    },
+    {
+        "english": "green",
+        "latin": "viridis",
+        "id": 5
+    },
+    {
+        "english": "blue",
+        "latin": "caeruleus",
+        "id": 6
+    },
+    {
+        "english": "purple",
+        "latin": "purpureus",
+        "id": 7
+    },
+    {
+        "english": "pink",
+        "latin": "roseus",
+        "id": 8
+    }
+]

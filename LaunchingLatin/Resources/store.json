@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Gold Crown",
+        "imageName": "goldCrown",
+        "cost": 1000,
+        "id": 0
+    },
+    {
+        "name": "Silver Crown",
+        "imageName": "silverCrown",
+        "cost": 500,
+        "id": 1
+    },
+    {
+        "name": "Bronze Crown",
+        "imageName": "bronzeCrown",
+        "cost": 250,
+        "id": 2
+    },
+    {
+        "name": "Roman Shield",
+        "imageName": "shield",
+        "cost": 400,
+        "id": 3
+    },
+    {
+        "name": "Roman Helmet",
+        "imageName": "helmet",
+        "cost": 500,
+        "id": 4
+    },
+    {
+        "name": "Opal",
+        "imageName": "lightGreenGem",
+        "cost": 100,
+        "id": 5
+    },
+    {
+        "name": "Emerald",
+        "imageName": "greenGem",
+        "cost": 100,
+        "id": 6
+    },
+    {
+        "name": "Amber",
+        "imageName": "orangeGem",
+        "cost": 100,
+        "id": 7
+    },
+    {
+        "name": "Topaz",
+        "imageName": "yellowGem",
+        "cost": 100,
+        "id": 8
+    },
+    {
+        "name": "Saphire",
+        "imageName": "blueGem",
+        "cost": 100,
+        "id": 9
+    },
+    {
+        "name": "Amethyst",
+        "imageName": "purpleGem",
+        "cost": 100,
+        "id": 10
+    },
+    {
+        "name": "Moonstone",
+        "imageName": "greyGem",
+        "cost": 100,
+        "id": 11
+    },
+    {
+        "name": "Ruby",
+        "imageName": "redGem",
+        "cost": 100,
+        "id": 12
+    },
+    {
+        "name": "Diamond",
+        "imageName": "whiteGem",
+        "cost": 1000,
+        "id": 13
+    }
+]

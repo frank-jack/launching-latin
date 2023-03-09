@@ -1,0 +1,47 @@
+[
+    {
+        "english": "winter",
+        "latin": "hiems",
+        "id": 0
+    },
+    {
+        "english": "spring",
+        "latin": "ver",
+        "id": 1
+    },
+    {
+        "english": "summer",
+        "latin": "aestas",
+        "id": 2
+    },
+    {
+        "english": "autumn",
+        "latin": "autumnus",
+        "id": 3
+    },
+    {
+        "english": "snow",
+        "latin": "nix",
+        "id": 4
+    },
+    {
+        "english": "rain",
+        "latin": "imber",
+        "id": 5
+    },
+    {
+        "english": "wind",
+        "latin": "ventus",
+        "id": 6
+    },
+    {
+        "english": "thunder",
+        "latin": "tonitruum",
+        "id": 7
+    },
+    {
+        "english": "sun",
+        "latin": "sol",
+        "id": 8
+    }
+]

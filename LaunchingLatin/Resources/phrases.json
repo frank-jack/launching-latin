@@ -1,0 +1,32 @@
+[
+    {
+        "english": "seize the\nday",
+        "latin": "carpe\ndiem",
+        "id": 0
+    },
+    {
+        "english": "I came\nI saw\nI conquered",
+        "latin": "veni\nvidi\nvici",
+        "id": 1
+    },
+    {
+        "english": "out of\nmany one",
+        "latin": "E pluribus\nunum",
+        "id": 2
+    },
+    {
+        "english": "my fault",
+        "latin": "mea culpa",
+        "id": 3
+    },
+    {
+        "english": "quid\npro\nquo",
+        "latin": "something\nfor\nsomething",
+        "id": 4
+    },
+    {
+        "english": "persona\nnon\ngrata",
+        "latin": "unwelcome\nperson",
+        "id": 5
+    }
+]
